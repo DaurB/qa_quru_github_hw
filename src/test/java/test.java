@@ -8,7 +8,7 @@ public class test {
 
     @Test
     void exampleTest0() {
-        Assertions.assertFalse(2 <= 1);
+        Assertions.assertFalse(2 <= 7);
     }
 
     @Test
